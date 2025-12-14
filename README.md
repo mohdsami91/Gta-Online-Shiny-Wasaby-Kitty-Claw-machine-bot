@@ -5,6 +5,8 @@
 This repository contains an **AutoHotkey (AHK) automation script** designed to automate the **GTA Online arcade claw machine plushie game**.  
 The script performs the repetitive key actions required to play the machine automatically, allowing users to **AFK farm rare plushies** without manual input.
 
+![GTA Online Arcade Plushie Machine](images/finally-got-every-plushie-from-the-shiny-wasabi-kitty-claw-v0-xuvxmeuradhe1.jpg)
+
 ### Purpose of this Repository
 - Eliminate repetitive manual gameplay
 - Automate precise keyboard inputs for the arcade machine
