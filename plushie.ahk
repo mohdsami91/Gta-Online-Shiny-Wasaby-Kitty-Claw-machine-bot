@@ -10,7 +10,7 @@ SetKeyDelay, 50, 50
 running := false
 
 ; ---------- START LOOP ----------
-F6::
+F6::                    ; Set any key binding to start the ahk script
 running := true
 ToolTip, Plushie bot STARTED
 Sleep, 1000
@@ -44,7 +44,7 @@ while (running)
 return
 
 ; ---------- STOP LOOP ----------
-F7::
+F7::                    ; Set any key binding to stop the ahk script
 running := false
 ToolTip, Plushie bot STOPPED
 Sleep, 500
@@ -52,5 +52,5 @@ ToolTip
 return
 
 ; ---------- EXIT SCRIPT ----------
-Esc::
+Esc::                   ; Set any key binding to terminate the ahk script from running in the background
 ExitApp
