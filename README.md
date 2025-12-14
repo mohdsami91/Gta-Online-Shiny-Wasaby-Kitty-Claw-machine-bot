@@ -105,6 +105,7 @@ Sleep, 20     ; Small buffer delays
 ```
 
 Increase or decrease these values slightly until the movement aligns perfectly in your game.
+Also worth mentioning that it is best to keep the camera in 3rd person rather than 1st person for proper timed control
 
 ---
 
